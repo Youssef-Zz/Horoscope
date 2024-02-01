@@ -1,4 +1,4 @@
 <?php
-include 'horoscope/model.php';
+include 'model.php';
 $action=isset($_REQUEST['action'])? $action=$_REQUEST['action']:"";
-include 'horoscope/controller2.php'; 
+include 'controller.php';

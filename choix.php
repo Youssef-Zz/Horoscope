@@ -7,8 +7,8 @@
     <title>TP3 Horoscope</title>
 </head>
 <body>
-    <form action="model.php" method="post">
-        <select name="liste"
+    <form action="index.php?action=reponse" method="post">
+        <select name="liste">
         <?php foreach($signe as $cle => $valeur): ?>
         <option value="<?= $cle?>"><?= $cle?></option>
             <?php endforeach?>

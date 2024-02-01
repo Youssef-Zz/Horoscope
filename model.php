@@ -13,3 +13,7 @@ $signe=array(
 'Verseau'=>'Ce travail vous demandera beaucoup d`ingeniosité',
 'Poissons'=>'Votre esprit vif et limpide facilite la resolution des problemes',
 );
+
+$login=array('toto'=>'1234');
+
+?>
