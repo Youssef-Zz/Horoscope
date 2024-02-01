@@ -1,1 +1,0 @@
-<?= $reponse??"Pas de réponse" ?>
