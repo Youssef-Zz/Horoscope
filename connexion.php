@@ -1,4 +1,4 @@
-<form action="index.php?action=connexion" method="get">
+<form action="index.php?action=connexion" method="post">
     <label for="login"> login </label>
     <input type="text" id="login" name="login">
     <label for="mdp">mot de passe </label>
